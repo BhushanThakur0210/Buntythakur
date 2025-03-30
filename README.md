@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Buntythakur
+- 👋 Hi, I’m @Bhushanthakur
 - 👀 I’m interested in watching web-series and movies
-- 🌱 I’m currently learning Front-End Development
+- 🌱 I’m currently learning python, MySQL & PowerBi to masters in Data Analytics.
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me Bhushan0210
 - 😄 Pronouns: Bunty
