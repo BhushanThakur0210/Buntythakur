@@ -13,16 +13,25 @@
 ---
 
 ### 🌐 Connect with Me:
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/bhushan-thakur-48b79222a" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/bhushanthakur0210/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" height="30" />
   </a>
 </p>
 
----
+<h3 align="left">📬 Contact Me:</h3>
+<p align="left">
+  <a href="mailto:bhushan0210thakur@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" width="30" height="30" />
+    <span style="font-size: 16px; margin-left: 10px; vertical-align: middle;">bhushan0210thakur@gmail.com</span>
+  </a>
+</p>
+
 
 ### 🛠️ Languages & Tools:
 <p align="left">
