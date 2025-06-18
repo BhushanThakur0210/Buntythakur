@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhushan Vishnu Thakur</h1>
 <h3 align="center">Aspiring Data Analyst | Python & Power BI Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.imgur.com/7A5ZfPJ.gif" />
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔍 Currently exploring data storytelling with **Power BI**  
 - 💬 Ask me about **Python, SQL, Data Analysis, Dashboards**
